@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Assertion Errors",
+    "matchedStatuses":["failed"],
+    "messagedRegex": ".*assert.*"
+  },
+  {
+    "name": "Broken Tests" ,
+    "matchedStatuses": ["broken"]
+  }
+]
